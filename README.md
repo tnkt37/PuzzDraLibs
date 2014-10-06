@@ -13,12 +13,12 @@ PuzzDraSolverリポジトリとPuzzDraVisualizerリポジトリはこちらに�
 3.ドロップの押し下げ - pushDownDrops関数  
 
 
-4.  
+\4.  
 PuzzDraSolver/PuzzDraRoute.h内  
 ルートを保持するデータ構造 - Routeクラス  
 
 
-5.  
+\5.  
 PuzzDraSolver内  
 (2)探索手法1 - PuzzDraFirstSearch.cpp内firstSearch_4関数  
 (3)探索手法2 - PuzzDraBeamSerach.cpp内beamSearch関数  
