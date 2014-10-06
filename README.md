@@ -6,7 +6,7 @@ PuzzDraSolverリポジトリとPuzzDraVisualizerリポジトリはこちらに�
 
 ソースコードと研究レポートの対応  
 ---  
-3.(4)  
+\3.(4)  
 以下はすべてPuzzDraSolver/PuzzDraOperator.h内  
 1.ドロップの移動     - slideDrop_4関数  
 2.コンボ判定         - evalCombo関数  
