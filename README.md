@@ -23,6 +23,7 @@ PuzzDraSolver内
 (2)探索手法1 - PuzzDraFirstSearch.cpp内firstSearch_4関数  
 (3)探索手法2 - PuzzDraBeamSerach.cpp内beamSearch関数  
 (5).4        - PuzzDraBeamSerach.cpp内doubleLimitedSearch関数  
+firstSearch\_4関数とbeamSearch関数はcalcRoutes\_4関数を事前に呼び出しておく必要があるので注意。引数はahead以上なら良い。
 
 
 視覚化ソフトウェア - PuzzDraVisualizer
